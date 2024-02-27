@@ -1,4 +1,5 @@
 Rencana of my future
 - Mnjadi Profesional dalam bidang data scientist
 - Memahami semua metode dan ilmu tentang data
-- Menguasai SQL, Python, dan R
+- Menguasai SQL, Python, dan R. Untuk menganalisa Big Data
+- Menguasai tensorflow, powerBI, Tableau, dan data visualization lainnya
