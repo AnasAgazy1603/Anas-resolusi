@@ -4,3 +4,5 @@ Rencana of my future
 - Menguasai SQL, Python, dan R. Untuk menganalisa Big Data
 - Membuat aplikasi data science
 - Menguasai tensorflow, powerBI, Tableau, dan data visualization lainnya
+- Belajar mengenai pandas dan opencv
+- Belajar mengenai Kotlin
